@@ -1,0 +1,4 @@
+﻿  源.c
+D:\Git仓库\github_text\C++\模型参数\源.c(14,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Git仓库\github_text\C++\模型参数\源.c(15,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  模型参数.vcxproj -> D:\Git仓库\github_text\C++\模型参数\x64\Debug\模型参数.exe

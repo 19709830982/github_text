@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数位输出2", "数位输出2.vcxproj", "{805DB34B-4B63-46B5-9518-F19692A445DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{805DB34B-4B63-46B5-9518-F19692A445DB}.Debug|x64.ActiveCfg = Debug|x64
+		{805DB34B-4B63-46B5-9518-F19692A445DB}.Debug|x64.Build.0 = Debug|x64
+		{805DB34B-4B63-46B5-9518-F19692A445DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{805DB34B-4B63-46B5-9518-F19692A445DB}.Debug|x86.Build.0 = Debug|Win32
+		{805DB34B-4B63-46B5-9518-F19692A445DB}.Release|x64.ActiveCfg = Release|x64
+		{805DB34B-4B63-46B5-9518-F19692A445DB}.Release|x64.Build.0 = Release|x64
+		{805DB34B-4B63-46B5-9518-F19692A445DB}.Release|x86.ActiveCfg = Release|Win32
+		{805DB34B-4B63-46B5-9518-F19692A445DB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F934FB1-74B0-436A-8683-B3E319332AE4}
+	EndGlobalSection
+EndGlobal

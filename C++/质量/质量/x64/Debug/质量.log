@@ -1,0 +1,5 @@
+﻿  源.c
+D:\Git仓库\github_text\C++\质量\源.c(27,38): warning C4305: “函数”: 从“double”到“float”截断
+D:\Git仓库\github_text\C++\质量\源.c(28,40): warning C4305: “函数”: 从“double”到“float”截断
+D:\Git仓库\github_text\C++\质量\源.c(29,40): warning C4305: “函数”: 从“double”到“float”截断
+  质量.vcxproj -> D:\Git仓库\github_text\C++\质量\x64\Debug\质量.exe

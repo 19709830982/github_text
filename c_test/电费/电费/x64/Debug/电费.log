@@ -1,0 +1,5 @@
+﻿  源.c
+D:\Git仓库\github_text\c_test\电费\源.c(12,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Git仓库\github_text\c_test\电费\源.c(16,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Git仓库\github_text\c_test\电费\源.c(20,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  电费.vcxproj -> D:\Git仓库\github_text\c_test\电费\x64\Debug\电费.exe

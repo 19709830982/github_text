@@ -1,0 +1,3 @@
+﻿  源.c
+D:\Git仓库\github_text\c_test\完数\源.c(10,13): warning C4013: “wanshu”未定义；假设外部返回 int
+  完数.vcxproj -> D:\Git仓库\github_text\c_test\完数\x64\Debug\完数.exe

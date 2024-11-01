@@ -1,0 +1,4 @@
+﻿  源.c
+D:\Git仓库\github_text\c_test\科建\源.c(8,5): warning C4013: “shuzu”未定义；假设外部返回 int
+D:\Git仓库\github_text\c_test\科建\源.c(22,1): warning C4716: “shuzu”: 必须返回一个值
+  科建.vcxproj -> D:\Git仓库\github_text\c_test\科建\x64\Debug\科建.exe
